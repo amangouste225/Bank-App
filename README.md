@@ -11,4 +11,5 @@ Currently, two official plugins are available:
 
 This website has been built with TailwindCSS
 
-![Alt text](image.png)
+![image](https://github.com/amangouste225/Bank-App/assets/104840429/6d118f8d-fa2d-4ffc-b548-13741f23b44e)
+
