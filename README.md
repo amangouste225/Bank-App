@@ -10,3 +10,5 @@ Currently, two official plugins are available:
 ### Bank App website
 
 This website has been built with TailwindCSS
+
+![Alt text](image.png)
