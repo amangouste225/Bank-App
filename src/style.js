@@ -3,6 +3,8 @@ const styles = {
 
   heading2:
     'font-poppins font-semibold xs:text-[48px] text-[40px] text-white xs:leading-[56px] leading-[66.8px] w-full',
+  heading3:
+    'font-poppins font-semibold xs:text-[38px] text-[30px] text-white xs:leading-[46px] leading-[46.8px] w-full',
   paragraph:
     'font-poppins font-normal text-dimWhite text-[18px] leading-[30.8px]',
 
@@ -10,7 +12,7 @@ const styles = {
   flexStart: 'flex justify-center items-start',
 
   paddingX: 'sm:px-10 px-6',
-  paddingY: 'sm:py-10 py-6',
+  paddingY: 'sm:py-10 py-3',
   padding: 'sm:px-16 px-6 sm:py-12 py-4',
 
   marginX: 'sm:mx-16 mx-6',

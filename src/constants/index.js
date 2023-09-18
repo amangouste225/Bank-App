@@ -109,23 +109,19 @@ export const footerLinks = [
     links: [
       {
         name: 'Content',
-        link: 'https://www.hoobank.com/content/',
+        link: '#',
       },
       {
         name: 'How it Works',
-        link: 'https://www.hoobank.com/how-it-works/',
-      },
-      {
-        name: 'Create',
-        link: 'https://www.hoobank.com/create/',
+        link: '#',
       },
       {
         name: 'Explore',
-        link: 'https://www.hoobank.com/explore/',
+        link: '#',
       },
       {
         name: 'Terms & Services',
-        link: 'https://www.hoobank.com/terms-and-services/',
+        link: '#',
       },
     ],
   },
@@ -134,23 +130,23 @@ export const footerLinks = [
     links: [
       {
         name: 'Help Center',
-        link: 'https://www.hoobank.com/help-center/',
+        link: '#',
       },
       {
         name: 'Partners',
-        link: 'https://www.hoobank.com/partners/',
+        link: '#',
       },
       {
         name: 'Suggestions',
-        link: 'https://www.hoobank.com/suggestions/',
+        link: '#',
       },
       {
         name: 'Blog',
-        link: 'https://www.hoobank.com/blog/',
+        link: '#',
       },
       {
         name: 'Newsletters',
-        link: 'https://www.hoobank.com/newsletters/',
+        link: '#',
       },
     ],
   },
@@ -173,22 +169,22 @@ export const socialMedia = [
   {
     id: 'social-media-1',
     icon: instagram,
-    link: 'https://www.instagram.com/',
+    link: '#',
   },
   {
     id: 'social-media-2',
     icon: facebook,
-    link: 'https://www.facebook.com/',
+    link: '#',
   },
   {
     id: 'social-media-3',
     icon: twitter,
-    link: 'https://www.twitter.com/',
+    link: '#',
   },
   {
     id: 'social-media-4',
     icon: linkedin,
-    link: 'https://www.linkedin.com/',
+    link: '#',
   },
 ]
 
