@@ -23,7 +23,7 @@ const Hero = () => (
           <span>Generation</span>
         </h1>
 
-        <div className='ss:flex hidden md:mr-4 mr-0'>
+        <div className='sm:flex hidden md:mr-4 mr-0'>
           <GetStarted></GetStarted>
         </div>
       </div>
@@ -38,7 +38,9 @@ const Hero = () => (
       </p>
     </div>
 
-    <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
+    <div
+      className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative flex-col`}
+    >
       <img
         src={robot}
         alt='robot'
@@ -47,7 +49,7 @@ const Hero = () => (
       <div className='absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient'></div>
       <div className='absolute z-[1] w-[80%] h-[80%] rounded-100 bottom-40 white__gradient'></div>
       <div className='absolute z-[0] w-[40%] h-[35%] top-0 blue__gradient'></div>
-      <div className={`ss:hidden ${styles.flexCenter}`}>
+      <div className={`sm:hidden ${styles.flexCenter}`}>
         <GetStarted />
       </div>
     </div>

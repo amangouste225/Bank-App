@@ -1,10 +1,10 @@
-function Button({ styles }) {
+function Button({ styles, children }) {
   return (
     <button
       type='button'
-      className={`rounded-[5px] px-6 h-12 flex items-center bg-blue-gradient font-poppins font-medium text-[18px] text-primary outline-none ${styles}`}
+      className={`rounded-[5px] px-6 h-10 flex items-center bg-blue-gradient font-poppins font-medium text-[18px] text-primary outline-none ${styles}`}
     >
-      Get Started
+      {children}
     </button>
   )
 }
